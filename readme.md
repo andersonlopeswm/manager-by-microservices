@@ -2,7 +2,7 @@
 
 #### Referencia
 
-- Lib importandas
+- Pacotes utilizados
 - - https://github.com/Teamwork/node-auto-launch
 
 - Projetos similares
@@ -11,7 +11,7 @@
 - Documentação oficial do electron
 - - https://www.electronjs.org/docs/latest/api/tray
 
-- Code challenge, canal rockseat
+- Code challenge
 - - https://www.youtube.com/watch?v=nznujk__7sQ
 - - https://github.com/rocketseat-content/youtube-challenge-electron-tray
 
