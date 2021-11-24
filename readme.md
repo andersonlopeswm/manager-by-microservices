@@ -1,4 +1,4 @@
-## Application to manager micro services
+## Application for managing microservices
 
 #### Referencia
 
