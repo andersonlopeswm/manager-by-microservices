@@ -1,6 +1,6 @@
 ## Application for managing microservices
 
-#### Referencia
+#### Referência
 
 - Pacotes utilizados
 - - https://github.com/Teamwork/node-auto-launch
@@ -19,7 +19,7 @@
 - Rodando o projeto pela primeira vez
 
 
-## Iniciando o projeto ##
+### Iniciando o projeto 
 
 ```bash
 # Clone este projeto
