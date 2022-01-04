@@ -1,0 +1,9 @@
+{
+    "open": "Open with VSCode",
+    "add": "Set project folder...",
+    "close": "Exit Application",
+    "stop": "Stop",
+    "start": "Start",
+    "repository": "Repository BitBucket",
+    "folder": "Open Folder Project"
+}
